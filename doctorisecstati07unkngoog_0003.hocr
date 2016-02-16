@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisecstati07unkngoog_0003.png"; bbox 0 0 1079 1569; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 89 76 290 105">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 89 76 290 105">
+     <span class='ocr_line' id='line_1_1' title="bbox 89 76 290 105; baseline -0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 89 76 290 105; x_wconf 60' lang='lat' dir='ltr'><strong>e-&lt;,4q.·1.5</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 399 638 651 721">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 399 638 651 721">
+     <span class='ocr_line' id='line_1_2' title="bbox 399 638 651 676; baseline 0 -11"><span class='ocrx_word' id='word_1_2' title='bbox 399 638 525 665; x_wconf 79' lang='lat' dir='ltr'><strong>Harvard</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 540 638 651 676; x_wconf 82' lang='lat' dir='ltr'><strong>College</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 468 684 584 721; baseline 0 -10"><span class='ocrx_word' id='word_1_4' title='bbox 468 684 584 721; x_wconf 76' lang='lat' dir='ltr'>Library</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 432 902 619 916">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 432 902 619 916">
+     <span class='ocr_line' id='line_1_4' title="bbox 432 902 619 916; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 432 902 476 913; x_wconf 73' lang='lat' dir='ltr'><strong>nou</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 482 902 514 913; x_wconf 71' lang='lat' dir='ltr'><strong>ru}</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 521 903 593 916; x_wconf 65' lang='grc' dir='ltr'>ιιρυιιτ</span> <span class='ocrx_word' id='word_1_8' title='bbox 599 903 619 913; x_wconf 76' lang='lat' dir='ltr'><strong>nr</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 383 932 667 950">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 383 932 667 950">
+     <span class='ocr_line' id='line_1_5' title="bbox 383 932 667 950; baseline -0.004 0"><span class='ocrx_word' id='word_1_9' title='bbox 383 932 451 950; x_wconf 82' lang='lat' dir='ltr'><strong>JOHN</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 465 932 568 949; x_wconf 76' lang='lat' dir='ltr'>HARVEY</span> <span class='ocrx_word' id='word_1_11' title='bbox 581 932 667 949; x_wconf 80' lang='lat' dir='ltr'><strong>TREAT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 449 965 600 978">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 449 965 600 978">
+     <span class='ocr_line' id='line_1_6' title="bbox 449 965 600 978; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 449 965 469 976; x_wconf 76' lang='grc' dir='ltr'><strong>ον</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 473 965 556 978; x_wconf 61' lang='lat' dir='ltr'><strong>unum</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 560 966 600 976; x_wconf 64' lang='lat' dir='ltr'><strong>nus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 332 567 717 1089">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 332 567 717 1089">
+     <span class='ocr_line' id='line_1_7' title="bbox 332 567 717 1089; baseline 0 480"><span class='ocrx_word' id='word_1_15' title='bbox 332 567 717 1089; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
